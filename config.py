@@ -1,1 +1,2 @@
-api_key = "f3353447a9945c51f4233c9ddb29c49e"
+# Hide the api key 
+api_key = ""
